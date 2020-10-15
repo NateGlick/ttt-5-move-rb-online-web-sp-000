@@ -14,7 +14,7 @@ end
 
 
 def move(board, position, char = "X")
-  
+  board = X
 end
 
 def position_taken(board, index)
