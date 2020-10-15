@@ -16,6 +16,9 @@ def move(board, position, token)
   board[position] = token
 end
 
+board[position]
+
+
 
 
 
