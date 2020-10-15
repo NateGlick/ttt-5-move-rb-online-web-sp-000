@@ -12,6 +12,7 @@ def input_to_index(user_input)
   user_input = "5"
   converted_input = user_input
   converted_input.to_i 
+  
 end
 
 
