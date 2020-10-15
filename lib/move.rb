@@ -14,8 +14,8 @@ end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-def move(board, position, token)
-  board[position] = token
+def move(board, index, token)
+  board[index] = token
 end
 
 
