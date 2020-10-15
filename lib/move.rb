@@ -13,8 +13,8 @@ def input_to_index(user_input)
 end
 
 
-def move(board, position, char)
-  board[index] = token
+def move(board, position, char = "X")
+  
 end
 
 def position_taken(board, index)
